@@ -1,0 +1,18 @@
+[
+  {
+    "id": "source-oracle-enterprise",
+    "name": "Oracle",
+    "label": "enterprise",
+    "icon": "https://storage.googleapis.com/dev-airbyte-cloud-connector-metadata-service/resources/connector_stubs/v0/icons/oracle.svg",
+    "url": "https://docs.airbyte.com/integrations/enterprise-connectors/source-oracle",
+    "type": "enterprise_source"
+  },
+  {
+    "id": "source-workday-enterprise",
+    "name": "Workday",
+    "label": "enterprise",
+    "icon": "https://storage.googleapis.com/dev-airbyte-cloud-connector-metadata-service/resources/connector_stubs/v0/icons/workday.svg",
+    "url": "https://docs.airbyte.com/integrations/enterprise-connectors/source-workday",
+    "type": "enterprise_source"
+  }
+]
